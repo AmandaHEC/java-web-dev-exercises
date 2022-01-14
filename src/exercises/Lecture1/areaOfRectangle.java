@@ -1,4 +1,4 @@
-package exercises;
+package exercises.Lecture1;
 import java.util.Scanner;
 
 public class areaOfRectangle {
